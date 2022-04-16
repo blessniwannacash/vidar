@@ -63,13 +63,12 @@
 
 * Бэкенд:
     - Язык Python
-    - Фреймворк FastAPI
+    - Фреймворк Flask
     - БД PostgreSQL
     - SQLAlchemy ORM
     - Alembic для миграций
 * Фронтенд:
-    - React
-    - TypeScript
+    - Стандартные HTML5, CSS3 и JS
 
 
 # 4. Требования к дизайну
